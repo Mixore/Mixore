@@ -13,7 +13,7 @@ Hello! I'm a 16-year-old developer from France. I primarily code in Python and l
 
 Here are some of the projects I've worked on:
 
-1. **[Phishing Discord Servers List](https://github.com/Mixore/Phishing-Discord-Servers-List)**: Up-to-date list of Discord servers that are known to be used for phishing.
+1. **[Phishing Discord Servers List](https://github.com/Mixore/Phishing-Discord-Servers-List)**: Up-to-date list of Discord servers that are known to be used for phishing. (**discontinued**)
 
 ## GitHub Stats
 
